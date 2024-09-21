@@ -20,6 +20,9 @@ Project Overview
 Exercise 1: Exploratory Data Analysis
 
 Exercise 1.1: Correlation Matrix
+
+
+
 <img width="608" alt="test 2024-09-20 at 18 23 53" src="https://github.com/user-attachments/assets/3f8401a2-6689-4fc3-9e8c-f96717252995">
 
 
@@ -65,6 +68,8 @@ Result: Overfitting is identified when the model performs well on the training s
 Exercise 3: Logistic Regression
 
 Exercise 3.1: Processing and Splitting the Dataset
+
+
 <img width="393" alt="test 2024-09-20 at 18 24 46" src="https://github.com/user-attachments/assets/b8571db8-9f7b-4c30-815c-1d65ed8d278a">
 
 
