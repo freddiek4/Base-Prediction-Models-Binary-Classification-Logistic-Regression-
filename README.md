@@ -42,10 +42,10 @@ Exercise 2: Linear and Polynomial Regression
 
 Exercise 2.1: Splitting the Dataset
 
-from sklearn.model_selection import train_test_split
-X = df[['horsepower']]
-y = df['mpg']
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.20, random_state=15)
+
+
+	1.	from sklearn.model_selection import train_test_split,  X = df[['horsepower']], y = df['mpg'] X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.20, random_state=15)
+
 
 We split the dataset into training and testing sets using an 80:20 ratio. The horsepower feature is used as the independent variable, and mpg is the dependent variable.
 
